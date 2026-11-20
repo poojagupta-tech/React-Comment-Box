@@ -1,12 +1,65 @@
-# React + Vite
+# 💬 React Comment Box
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive social media post interface built with React.
 
-Currently, two official plugins are available:
+Users can like posts and add comments through an interactive comment section.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ❤️ Like and Unlike functionality
+- 🔢 Dynamic like counter
+- 💬 Add comments
+- 📝 Display comments dynamically
+- 🎨 Clean and modern UI
+- 📱 Responsive design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Built With
+
+- React.js
+- JavaScript
+- Tailwind CSS
+- Vite
+- Remix Icon
+
+## 📸 Project Overview
+
+This project demonstrates React fundamentals such as:
+
+- Components and Props
+- useState Hook
+- Event Handling
+- Conditional Rendering
+- Array Methods
+- State Management
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/poojagupta-tech/React-Comment-Box.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm run dev
+```
+
+## 👩‍💻 Developer
+
+**Pooja Gupta**
+
+Frontend Developer
+
+[GitHub Profile](https://github.com/poojagupta-tech)
+
+---
+
+⭐ If you like this project, feel free to explore the repository!
